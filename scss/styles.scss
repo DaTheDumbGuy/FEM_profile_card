@@ -46,7 +46,7 @@ body{
         background-size: cover; /* Added for image scaling */
     }
 
-    @media (min-width: 1440px) {
+    @media (min-width: 1024px) {
         &::before { /* Adjusted to target pseudo-elements correctly */
             left: -30%;
             width:80vw;
