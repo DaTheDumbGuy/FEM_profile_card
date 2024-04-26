@@ -1,0 +1,27 @@
+styles/
+│
+├── base/
+│   └── _variables.scss
+│   └── _typography.scss
+│   └── _reset.scss
+│   └── ...
+│
+├── components/
+│   └── _buttons.scss
+│   └── _forms.scss
+│   └── _navbar.scss
+│   └── ...
+│
+├── layout/
+│   └── _grid.scss
+│   └── _header.scss
+│   └── _footer.scss
+│   └── ...
+│
+├── utilities/
+│   └── _mixins.scss
+│   └── _functions.scss
+│   └── _helpers.scss
+│   └── ...
+│
+└── styles.scss
